@@ -1,0 +1,4 @@
+datasource:
+  url: jdbc:mysql://localhost:3306/usersTest
+  username: ${datasource.password}
+  password: 3225047242yY1968
